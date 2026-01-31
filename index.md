@@ -30,12 +30,12 @@ Je travaille sur des problématiques Data Analysis et Machine Learning, avec une
 ##  Data Analysis  
 Analyses exploratoires, dashboards, automatisation, SQL, Power BI.
 
- [Voir les projets Data Analysis](/projets/data-analysis)
+ [Voir les projets Data Analysis](/projets/data-analysis/index.md)
 
 ## Machine Learning  
 Computer Vision, prédiction, classification, deep learning, pipelines ML.
 
- [Voir les projets Machine Learning](/projets/machine-learning)
+ [Voir les projets Machine Learning](/projets/machine-learning/index.md)
 
 ---
 
