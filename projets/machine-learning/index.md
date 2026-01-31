@@ -9,5 +9,5 @@ title: "Projets Machine Learning"
 - [Prédiction de médailles olympiques](prediction-medailles.md)
 - [Fashion Intelligence App]()
 
-- # Retours au projets
-- [← Voir tous les projets ML](/index.md)
+- # Retours à d'acceuil
+- [← ACCEUIL](/index.md)
