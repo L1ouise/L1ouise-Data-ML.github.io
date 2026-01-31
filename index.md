@@ -53,7 +53,7 @@ Mes forces :
 
 ---
 
-#  Footer
+
 
 <div style="text-align:center; margin-top:40px; opacity:0.7;">
   © 2025 — Portfolio de Louise Charline NDONGUEP  
