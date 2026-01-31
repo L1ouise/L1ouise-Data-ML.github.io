@@ -5,6 +5,6 @@ title: "Projets Machine Learning"
 
 #  Projets Machine Learning
 
-- Classification de races de chiens
-- Prédiction de médailles olympiques
-- Fashion Intelligence App
+- [Classification de races de chiens](/classification-chiens.md)
+- [Prédiction de médailles olympiques](/prediction-medailles.md)
+- [Fashion Intelligence App]()
