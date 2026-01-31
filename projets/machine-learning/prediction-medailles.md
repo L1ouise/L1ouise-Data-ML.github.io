@@ -165,3 +165,6 @@ Python, Pandas, NumPy, XGBoost, Scikit‑learn, Excel, GitHub
 
 #  Lien GitHub
 *(ajoute ici le lien vers le repo du projet)*
+
+# Retour aux Projets ML
+[← Voir tous les projets ML](index.md)
