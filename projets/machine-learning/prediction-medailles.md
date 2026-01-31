@@ -2,7 +2,7 @@
 layout: default 
 title: "Prédiction du nombre de médailles olympiques — Projet ML end‑to‑end"
 ---
-#Prédiction du nombre de médailles olympiques — Projet ML end‑to‑end
+# Prédiction du nombre de médailles olympiques — Projet ML end‑to‑end
 ##  Objectif du projet
 Construire un modèle capable de prédire le nombre total de médailles qu’un pays remportera aux Jeux Olympiques, en utilisant des données historiques sur les athlètes, les résultats, les disciplines et les pays hôtes.
 
