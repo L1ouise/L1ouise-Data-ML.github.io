@@ -10,4 +10,4 @@ title: "Projets Machine Learning"
 - [Fashion Intelligence App]()
 
 - # Retours au projets
-- [← Voir tous les projets ML](/projets)
+- [← Voir tous les projets ML](/index.md)
