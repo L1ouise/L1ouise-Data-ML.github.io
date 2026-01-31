@@ -144,5 +144,5 @@ TensorFlow / Keras, OpenCV, Kaggle GPU, Python (NumPy, Pandas, Matplotlib)
 
 ---
 
-#  Retour aux projets
-[← Voir tous les projets](/projets)
+#  Retour aux projets ML
+[← Voir tous les projets ML](index.md)
